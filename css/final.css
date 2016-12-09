@@ -11,7 +11,7 @@ White: #ffffff
 body {
 	width: 761px;
 	margin: 1.5em auto; /* this + a defined width, centers the body content */
-	border-color: #490000;
+	border-color: #550707;
 	border-style: solid;
 	background: #ffffff;
 	border-width: 10px;
@@ -78,14 +78,14 @@ a:active {
 
 #nav li {
 	display: inline;
-	background-color: #AFAFAF;
+	background-color: #d15151;
 	border-style: solid;
-	border-color: #490000;
+	border-color: #550707;
 	padding: 5px;
 }
 
 #footer {
-background-color: #490000;
+background-color: #550707;
 padding: 5px;
 margin-right: -20px;
 margin-left: -20px;
