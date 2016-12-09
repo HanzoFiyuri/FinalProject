@@ -31,21 +31,21 @@ background-image: url(images/school.png);
 h1 {
 	text-align: center;
 	color: #000000;
-	font-family: 'Fjalla One', sans-serif;
+	font-family: 'Fjalla One', Helvetica;
 	font-weight:300;
 }
 
 h2 {
 	text-align: center;
 	color: #000000;
-	font-family: 'Fjalla One', sans-serif;
+	font-family: 'Fjalla One', Helvetica;
 	font-weight:300;
 }
 
 h3 {
 	text-align: center;
 	color: #000000;
-	font-family: 'Fjalla One', sans-serif;
+	font-family: 'Fjalla One', Helvetica;
 	font-weight:300;
 
 }
@@ -70,7 +70,7 @@ a:active {
 }
 
 #nav {
-	font-family: 'Passion One';
+	font-family: 'Passion One', Helvetica;
 	list-style-type: none;
 	font-weight: bold;
 	text-align: center;
