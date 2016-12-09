@@ -70,7 +70,8 @@ a:active {
 }
 
 #nav {
-	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
 	font-family: 'Passion One', Helvetica;
 	list-style-type: none;
 	font-weight: bold;
