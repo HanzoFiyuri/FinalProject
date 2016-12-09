@@ -77,7 +77,7 @@ a:active {
 }
 
 #nav li {
-	display: inline;
+	display: block;
 	background-color: #d15151;
 	border-style: solid;
 	border-color: #550707;
