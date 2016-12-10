@@ -105,8 +105,8 @@ color: #FFFFFF;
 
 @media screen and (max-width: 800px) {
 .content {
-	width: auto;
-	height: auto;
+	width: 50%;
+	height: 50%;
 }
 	#nav {
 		visibility: hidden;
