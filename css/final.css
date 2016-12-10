@@ -104,17 +104,12 @@ color: #FFFFFF;
 }
 
 @media screen and (max-width: 800px) {
-
+.content {
+	width: auto;
+	height: auto;
+}
 	#nav {
 		visibility: hidden;
 	}
 
-	.banner {
-		width: 50%;
-	}
-
-	.comic {
-		width: 500px;
-		height: 530px;
-	}
 }
