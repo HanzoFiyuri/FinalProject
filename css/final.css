@@ -103,9 +103,13 @@ color: #FFFFFF;
 }
 
 @media (min-width: 0px) {
+	.content{
 	width: 300px;
+	}
 }
 
 @media (min-width: 1000px) {
-	width: 900px;
+	.content {
+	width: 900px;	
+	}
 }
