@@ -102,6 +102,10 @@ margin-top: 32px;
 color: #FFFFFF;
 }
 
-.twitter-timeline {
-	float: left;
+@media (min-width: 0px) {
+	width: 300px;
+}
+
+@media (min-width: 1000px) {
+	width: 900px;
 }
