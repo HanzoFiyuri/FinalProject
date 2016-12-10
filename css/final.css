@@ -104,7 +104,8 @@ a:active {
 	border-style: solid;
 	border-color: #550707;
 	padding: 10px;
-	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #footer {
