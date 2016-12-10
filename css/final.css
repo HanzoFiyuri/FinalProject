@@ -110,5 +110,10 @@ color: #FFFFFF;
 	#nav {
 		visibility: hidden;
 	}
-
+.banner {
+	width: 50%;
+}
+.comic img {
+	width: 50%;
+}
 }
