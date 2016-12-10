@@ -53,6 +53,14 @@ a:link {
   text-decoration: none;
 }
 
+.date {
+	text-align: center;
+	color: #000000;
+	font-family: 'Fjalla One', Helvetica;
+	font-weight:300;
+
+}
+
 a:hover {
 	font-weight: bold;
 	text-decoration: underline;
