@@ -96,7 +96,7 @@ color: #FFFFFF;
 
 @media screen and (max-width: 800px) {
 
-	#nav navigation {
+	#nav {
 		visibility: hidden;
 	}
 
@@ -105,7 +105,7 @@ color: #FFFFFF;
 	}
 
 	.comic {
-		width: 50%;
-		height: 50%;
+		width: 500px;
+		height: 530px;
 	}
 }
