@@ -151,4 +151,22 @@ visibility: hidden;
 	width: auto;
 	height: auto;
 }
+.twitter_timeline {
+	visibility: hidden;
+}
+#mc_embed_signup {
+	visibility: hidden;
+}
+#mc_embed_signup_scroll {
+	visibility: hidden;
+}
+.clear {
+	visibility: hidden;
+}
+#mc-embedded-subscribe {
+	visibility: hidden;
+}
+.button {
+	visibility: hidden;
+}
 }
