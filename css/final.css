@@ -165,10 +165,10 @@ visibility: hidden;
 	}
 .banner {
 width: 100px
-height: auto;
+height: 50px;
 }
 .comic {
-	width: auto;
-	height: auto;
+	width: 100px;
+	height: 200px;
 }
 }
