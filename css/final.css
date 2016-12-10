@@ -94,8 +94,18 @@ margin-top: 32px;
 color: #FFFFFF;
 }
 
-@media (max-width: 800px) {
-	.content{
-	width: 60%;
+@media screen and (max-width: 800px) {
+
+	#nav navigation {
+		visibility: hidden;
+	}
+
+	.banner {
+		width: 50%;
+	}
+
+	.comic {
+		width: 50%;
+		height: 50%;
 	}
 }
