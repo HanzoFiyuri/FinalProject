@@ -46,8 +46,7 @@ a:link {
 }
 
 .date {
-	margin-left: auto;
-	margin-right: auto;
+text-align: center;
 	color: #000000;
 	font-family: 'Fjalla One', Helvetica;
 	font-weight:300;
