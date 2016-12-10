@@ -16,9 +16,15 @@ background-image: url(images/school.png);
 }
 
 .banner {
-display: block;
-margin-left: auto;
-margin-right: auto;
+width: 761px;
+height: auto;
+}
+
+.banner img {
+	width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 h1 {
