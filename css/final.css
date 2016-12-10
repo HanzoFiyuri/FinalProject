@@ -142,11 +142,8 @@ height:100%
 	height: auto;
 }
 	#nav {
-visibility: hidden;
+display: block;
 	}
-.banner {
-visibility: hidden;
-}
 .comic {
 	width: auto;
 	height: auto;
