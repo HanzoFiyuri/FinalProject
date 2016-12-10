@@ -94,8 +94,8 @@ margin-top: 32px;
 color: #FFFFFF;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
 	.content{
-	width: 50%;
+	width: 30%;
 	}
 }
